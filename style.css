@@ -5,6 +5,11 @@ body {
 	background-color: salmon;
 }
 
+html
+{
+        scroll-behavior: smooth;
+}
+
 .profile {
 	width: 175px;
 	margin-bottom: 50px;
@@ -79,6 +84,7 @@ p {
 .txt1 {
 	background-color: steelblue;
 	color: white;
+	text-align: center;
 }
 
 #bio2 {
